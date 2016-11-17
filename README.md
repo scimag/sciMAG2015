@@ -1,9 +1,16 @@
 # sciMAG2015
-The Open data set linking Microsoft Academic Graph and sciMAGO's journal classification for bibliometrics studies.
+
+### The Open data set linking Microsoft Academic Graph and sciMAGO's journal classification for bibliometrics studies.
+
+![alt text](sciMAGviz.png "")
+
 
 | Papers|Citations| Authors| Journals|Macro-areas|Sub-areas|
 |:-----:|:-------:|:------:| :-----: |:---------:|:-------:|
 | 35 M+ | 324 M+  |  38 M+ | 14,413  | 27        | 306     |
+
+Papers are classified according to the journal where they have been published. 
+SciMAG is built by linking the Microsoft Academic Graph and the SciMAGO Journal Classification. We classified papers into 306 distinct research topics and 27 unique knowledge areas (a coarser level of classification). The resulting data set has more than 35 million papers, cross-referencing each other more than 324 millions times.
 
 Visit the [official Web page](https://scimag.github.io/sciMAG2015) to know more about the data set.
 
@@ -11,9 +18,9 @@ Visit the [official Web page](https://scimag.github.io/sciMAG2015) to know more 
 
 The sciMAG data set provides bibliographic information about papers published in journals in the last century (see the [official Web page](https://scimag.github.io/sciMAG2015) for further details). The data set consists of the following information. (Note that each file begins with a header, indicating the data fields)
 
-### Main databases
+## Main databases
 
-##### Publications
+### Publications
 
 File: `paper_database_author.txt`
 
@@ -43,7 +50,7 @@ Example:
 
 	0E05E7D1|2013|01DF587F
 
-##### Citations
+### Citations
 
 File: `citation_database.txt`
 
@@ -64,10 +71,10 @@ Example:
 
 
 
-### Metadata
+## Metadata
 
 
-##### Journals
+### Journals
 
 File: `journal_metadata.txt`
 
@@ -84,7 +91,7 @@ Example:
 
 	05B62529|Forest Policy and Economics|Agricultural and Biological Sciences$Economics, Econometrics and Finance$Environmental Science$Social Sciences|Forestry$Economics and Econometrics$Management, Monitoring, Policy and Law$Sociology and Political Science
 
-##### Authors
+### Authors
 
 File: `author_metadata.txt`
 
@@ -99,7 +106,7 @@ Example:
 
 	432E2D9D|JUN ZENG
 
-##### Affiliations
+### Affiliations
 
 File: `affiliation_metadata.txt`
 
@@ -132,5 +139,22 @@ Example:
 	0E05E7D1|THORACIC VASCULAR IMAGING: THORACIC AORTIC DISEASE AND PULMONARY EMBOLISM|2013|10.1259/IMAGING.20100064
 
 
+# Copyright
 
+The SciMAG 2015 is made available under the [Open Database License](http://opendatacommons.org/licenses/odbl/1.0/). Any rights in individual contents of the database are licensed under the [Database Contents License](http://opendatacommons.org/licenses/dbcl/1.0/). A human-readable summary of the license is available [here](http://opendatacommons.org/licenses/odbl/summary/). 
+
+If you use the sciMAG 2015 for your research, please, cite the following papers:
+
+	Manlio De Domenico, Elisa Omodei, Alex Arenas
+	Quantifying the Diaspora of Knowledge in the Last Century.
+	Applied Network Science
+
+	Arnab Sinha, Zhihong Shen, Yang Song, Hao Ma, Darrin Eide, Bo-June (Paul) Hsu, and Kuansan Wang. 2015.
+	An Overview of Microsoft Academic Service (MAS) and Applications.
+	In Proceedings of the 24th International Conference on World Wide Web (WWW ’15 Companion).
+	ACM, New York, NY, USA, 243-246. DOI=10.1145/2740908.2742839
+
+# Support or Contact
+
+Having trouble with SciMAG? Send an email to [Manlio De Domenico](mailto:manlio.dedomenico@urv.cat)
 
