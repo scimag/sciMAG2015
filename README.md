@@ -90,6 +90,8 @@ Fields:
 Example:
 
 	05B62529|Forest Policy and Economics|Agricultural and Biological Sciences$Economics, Econometrics and Finance$Environmental Science$Social Sciences|Forestry$Economics and Econometrics$Management, Monitoring, Policy and Law$Sociology and Political Science
+	
+Note that a single journal might be classified into one or more categories. In this case, the entries are separated by a $ char.
 
 ### Authors
 
