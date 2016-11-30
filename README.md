@@ -149,7 +149,7 @@ If you use the sciMAG 2015 for your research, please, cite the following papers:
 
 	Manlio De Domenico, Elisa Omodei, Alex Arenas
 	Quantifying the Diaspora of Knowledge in the Last Century.
-	Applied Network Science
+	Applied Network Science 1, 15 (2016)
 
 	Arnab Sinha, Zhihong Shen, Yang Song, Hao Ma, Darrin Eide, Bo-June (Paul) Hsu, and Kuansan Wang. 2015.
 	An Overview of Microsoft Academic Service (MAS) and Applications.
