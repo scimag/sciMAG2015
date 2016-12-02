@@ -141,6 +141,20 @@ Example:
 	0E05E7D1|THORACIC VASCULAR IMAGING: THORACIC AORTIC DISEASE AND PULMONARY EMBOLISM|2013|10.1259/IMAGING.20100064
 
 
+# Download
+
+File size ranges from less than 1 MB to 5.5 GB. Github's limitations do not allow to store here such files, therefore they are hosted on Google Drive and can be download through the following links:
+
+* [author_metadata](https://drive.google.com/open?id=0B7oAb9nG9_oaUlNObFd2QkhUQ2M)
+* [affiliation_metadata](https://drive.google.com/open?id=0B7oAb9nG9_oaeXZab3JHbURGME0)
+* [journal_metadata](https://drive.google.com/open?id=0B7oAb9nG9_oaV0ZlZ3FENTZ6dkU)
+* [paper_database_author](https://drive.google.com/open?id=0B7oAb9nG9_oadF9TYWxYemlSbjg)
+* [paper_database_journal](https://drive.google.com/open?id=0B7oAb9nG9_oaNGEzd1FpQkpTY0E)
+* [paper_metadata.txt.gz](https://drive.google.com/open?id=0B7oAb9nG9_oaNXZXOFJELXNGcW8)
+* [citation_database](https://drive.google.com/open?id=0B7oAb9nG9_oaR2l3UWFXcFJNSTA)
+
+
+
 # Copyright
 
 The SciMAG 2015 is made available under the [Open Database License](http://opendatacommons.org/licenses/odbl/1.0/). Any rights in individual contents of the database are licensed under the [Database Contents License](http://opendatacommons.org/licenses/dbcl/1.0/). A human-readable summary of the license is available [here](http://opendatacommons.org/licenses/odbl/summary/). 
