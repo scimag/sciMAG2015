@@ -145,13 +145,13 @@ Example:
 
 File size ranges from less than 1 MB to 5.5 GB. Github's limitations do not allow to store here such files, therefore they are hosted on Google Drive and can be download through the following links:
 
-* [author_metadata](https://drive.google.com/open?id=0B7oAb9nG9_oaUlNObFd2QkhUQ2M)
-* [affiliation_metadata](https://drive.google.com/open?id=0B7oAb9nG9_oaeXZab3JHbURGME0)
-* [journal_metadata](https://drive.google.com/open?id=0B7oAb9nG9_oaV0ZlZ3FENTZ6dkU)
-* [paper_database_author](https://drive.google.com/open?id=0B7oAb9nG9_oadF9TYWxYemlSbjg)
-* [paper_database_journal](https://drive.google.com/open?id=0B7oAb9nG9_oaNGEzd1FpQkpTY0E)
-* [paper_metadata.txt.gz](https://drive.google.com/open?id=0B7oAb9nG9_oaNXZXOFJELXNGcW8)
-* [citation_database](https://drive.google.com/open?id=0B7oAb9nG9_oaR2l3UWFXcFJNSTA)
+* [author_metadata](https://drive.google.com/file/d/1phtS7IQgSGg56c1UrAW2Yz3TYSiWGMqP/view?usp=sharing)
+* [affiliation_metadata](https://drive.google.com/file/d/1pl50A1_oOJwTRCBfJx6Tq7uju_njA8gM/view?usp=sharing)
+* [journal_metadata](https://drive.google.com/file/d/1ppTUUGL8PreM9h2ykCVJhSCEZfPtTdf3/view?usp=sharing)
+* [paper_database_author](https://drive.google.com/file/d/1pclATSQWvPIMm1Xt3QvXymOT3l63dYjq/view?usp=sharing)
+* [paper_database_journal](https://drive.google.com/file/d/1pjxKKQ3PB8MhpKWLT0Hx957d4DJ9GgDq/view?usp=sharing)
+* [paper_metadata](https://drive.google.com/file/d/1pcSVWOoZaxA3X5jn_JHit_APh9t7f-iY/view?usp=sharing)
+* [citation_database](https://drive.google.com/file/d/1ppTUUGL8PreM9h2ykCVJhSCEZfPtTdf3/view?usp=sharing)
 
 
 
